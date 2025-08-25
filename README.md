@@ -8,9 +8,6 @@ This project allows users to upload files with basic validation and organized st
 ## ✨ Features
 - 📤 Upload files easily via web form
 - ⚡ Lightweight & minimal code
-- 📁 Auto-save uploaded files into `uploads/` directory
-- 🔧 Easy to customize (file size limit, allowed extensions, etc.)
-
 ---
 
 ## 🛠️ Installation
